@@ -1,0 +1,15 @@
+{
+  "name": "monorepo-template",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "change": "pnpm changeset"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@changesets/cli": "^2.27.1"
+  }
+}
